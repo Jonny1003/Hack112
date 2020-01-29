@@ -3,6 +3,11 @@
 
 Authors: Jonathan Ke, Yang Gan, David Chen, Wuhan Jiang
 
+Purpose:
+
+A 3D Rubik's Cube you can play with from your computer!
+
+
 Usage:
 To run, start Rotation.py.
 
